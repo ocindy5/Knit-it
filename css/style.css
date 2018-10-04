@@ -55,7 +55,7 @@ nav {
   text-shadow: 4px 4px 4px #aaa;
   margin-bottom:10px;
   margin-top:70px;
-  margin-left:150px;
+  margin-left:14%;
   font-size:5em;
   background-color: rgba(197,199,194,0.2);
 }
@@ -65,7 +65,7 @@ nav {
 }
 
 .article3, .article4 {
-  margin-top:5px;
+  margin-top:20px;
 }
 
 .badge-warning {
@@ -77,6 +77,13 @@ nav {
   margin-left:100px;
 }
 
+
+@media all and (min-width:0px) and (max-width:768px) {
+  .article3, .article4 {
+    margin-top:100px;s
+  }
+
+}
 /* parallax 2 */
 
 
