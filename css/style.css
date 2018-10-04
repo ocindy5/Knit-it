@@ -1,0 +1,102 @@
+.container-fluid {
+  padding-right:0;
+  padding-left:0;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+nav {
+  height:100px;
+  margin:0px;
+}
+
+.navbar-nav {
+  margin-left:70%;
+}
+
+/* PARALLAX HOME */
+/* parallax 1*/
+
+.parallax1 {
+    background-image: url("../img/knitting1.jpg");
+    height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax1 h1 {
+  display:inline-block;
+  color:white;
+  font-family: 'Marck Script', cursive;;
+  font-size:4em;
+  margin-top:300px;
+  padding-left:10px;
+  background-color:white;
+  background-color: rgba(197,199,194,0.8);
+
+}
+
+.line1 {
+  display:block;
+  background-color:#c5c7c2;
+  height:20px;
+}
+
+/* BLOG */
+
+.heading {
+  display:inline-block;
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+  margin-bottom:30px;
+  margin-top:50px;
+  margin-left:200px;
+  font-size:5em;
+  background-color: rgba(197,199,194,0.2);
+}
+
+.article1, .article2 {
+  margin-top:100px;
+}
+
+.article3, .article4 {
+  margin-top:5px;
+}
+
+.badge-warning {
+  background-color:#f2b134 !important;
+  color:white;
+}
+
+.article h2, .article p, .article img, .badge {
+  margin-left:100px;
+}
+
+/* parallax 2 */
+
+
+/*.parallax2 {
+    background-image: url("../img/knitting3.jpg");
+    height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top:200px;
+}
+
+*/
+/* parallax 3 */
+
+/*.parallax3 {
+    background-image: url("../img/knitting4.jpg");
+    height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top:200px;
+}*/
