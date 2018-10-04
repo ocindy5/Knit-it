@@ -48,12 +48,14 @@ nav {
 
 .heading {
   display:inline-block;
-  font-family: 'Tangerine', serif;
+  font-family: 'Marck Script', cursive;
+  font-family: 'Cabin Sketch', cursive;
+  font-family: 'Reenie Beanie', cursive;
   font-size: 48px;
   text-shadow: 4px 4px 4px #aaa;
-  margin-bottom:30px;
-  margin-top:50px;
-  margin-left:200px;
+  margin-bottom:10px;
+  margin-top:70px;
+  margin-left:150px;
   font-size:5em;
   background-color: rgba(197,199,194,0.2);
 }
