@@ -85,8 +85,8 @@ nav {
 /* parallax 2 */
 
 .parallax2 {
-    background-image: url("../img/knitting3.jpg");
-    height: 800px;
+    background-image: url("../img/outils.jpg");
+    height: 400px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -99,7 +99,8 @@ nav {
   color:white;
   font-family: 'Marck Script', cursive;;
   font-size:3em;
-  margin-top:300px;
+  margin-top:150px;
+  width:700px;
   background-color:white;
   background-color: rgba(197,199,194,0.4);
 }
@@ -108,12 +109,23 @@ nav {
   display:inline-block;
   color:white;
   font-size:1.5em;
+  width:600px;
 }
 
 .parallax2 h1 , .parallax2 p {
-  margin-left:-50%;
-  text-align: justify;
+  text-align: center;
 }
+
+.parallax2 p{
+  margin-left:8%;
+}
+
+.parallax2 h1 {
+  margin-left:-8%;
+}
+
+/* FOOTER */
+
 
 
 /*.parallax2 {
