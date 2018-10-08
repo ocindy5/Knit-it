@@ -11,7 +11,7 @@ nav {
 }
 
 .navbar-nav {
-  margin-left:70%;
+  margin-left:60%;
 }
 
 /* PARALLAX HOME */
@@ -78,7 +78,7 @@ nav {
 
 @media all and (min-width:0px) and (max-width:768px) {
   .article3, .article4 {
-    margin-top:100px;s
+    margin-top:100px;
   }
 
 }
