@@ -196,6 +196,41 @@ nav {
   margin-left:-8%;
 }
 
+/* Smartphones */
+
+@media only screen and (min-width : 320px) {
+
+  .parallax2 {
+        margin-top:3300px !important;
+  }
+
+}
+
+
+/* Ipads */
+
+@media all and (min-width : 768px) {
+  .parallax2 {
+        margin-top:2300px !important;
+  }
+
+}
+
+@media (min-width: 992px) {
+  .parallax2 {
+        margin-top:2050px !important;
+  }
+
+}
+
+
+@media (min-width: 1200px) {
+  .parallax2 {
+        margin-top:1850px !important;
+  }
+}
+
+
 /* FOOTER */
 
 
