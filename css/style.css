@@ -20,22 +20,21 @@ nav {
 
 /* Hamburger menu */
 
-@media all and (min-width:900px) {
+@media all and (min-width:1253px){
 .hamburger-menu {
 display:none;
 }
 }
-@media all and (max-width:900px) {
+@media all and (max-width:1253px) {
 .desktop-menu {
 display:none;
 }
 }
 
 .topnav {
-    background-color: #333;
+    background-color: #ffffff;
     overflow: hidden;
     z-index:50;
-
 }
 
 nav {
@@ -45,7 +44,7 @@ nav {
 .topnav a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -220,9 +219,13 @@ nav {
   .parallax2 {
         margin-top:2050px !important;
   }
-
 }
 
+@media (min-width: 850px) and (max-width:1253px){
+  .nav-item {
+    margin-top:15px;
+  }
+}
 
 @media (min-width: 1200px) {
   .parallax2 {
