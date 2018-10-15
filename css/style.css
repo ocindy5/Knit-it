@@ -84,7 +84,7 @@ nav {
   }
   .topnav.responsive a {
     float: none;
-    display: block;
+    display: inline-block;
     text-align: left;
   }
 }
@@ -232,9 +232,6 @@ nav {
         margin-top:1850px !important;
   }
 }
-
-
-/* FOOTER */
 
 
 
